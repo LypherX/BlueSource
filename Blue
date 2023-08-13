@@ -15,6 +15,7 @@ local OrionLib = {
 	Themes = {
 		Default = {
 			Main = Color3.fromRGB(10, 24, 96),
+                        Title = "Mori",
 			Second = Color3.fromRGB(16, 24, 64),
 			Stroke = Color3.fromRGB(16, 24, 64),
 			Divider = Color3.fromRGB(25, 24, 25),
